@@ -2,5 +2,5 @@ class Person
   # do something
 end
 
-abil = Person.new
-houssein = Person.new
+adele_goldberg = Person.new
+alan_kay = Person.new
